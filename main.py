@@ -382,4 +382,5 @@ class DinoRunner:
             self.current_image = DINO1
 
 
-DinoRunner()
+if __name__ == '__main__':
+    DinoRunner()
