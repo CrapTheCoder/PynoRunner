@@ -12,3 +12,5 @@ The classic Chrome dino game re-imagined with Python and PyGame
   ```
   python3 C:\path\to\main.py
   ```
+
+Thanks to [TheNitpickyCloud](https://github.com/TheNitpickyCloud) for most of the sprites!
